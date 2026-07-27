@@ -1,6 +1,7 @@
 # Fast-Forward Speed Multipliers for Lobotomy Corporation
 
-A BaseMod 5.0 plugin package for **Lobotomy Corporation** that upgrades in-game speed buttons to faster multipliers.
+Zooming is fun.
+A mod for Lobotomy Corporation that upgrades in-game speed buttons to faster multipliers.
 
 ---
 
