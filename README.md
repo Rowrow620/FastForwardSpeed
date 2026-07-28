@@ -3,7 +3,10 @@
 Zooming is fun.
 
 A mod for Lobotomy Corporation that upgrades in-game speed buttons to faster multipliers.
+<img width="459" height="91" alt="{1F43BBC9-EA1B-4B71-95A4-1BD65663CD63}" src="https://github.com/user-attachments/assets/4184a83c-d8b3-49da-8312-3a4d790e5a2d" />
+
 https://www.nexusmods.com/lobotomycorporation/mods/1282
+
 ---
 
 ## Speed Multiplier Variants
