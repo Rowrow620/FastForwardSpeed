@@ -22,7 +22,7 @@ Modifies the 3 in-game speed buttons to:
 - **Button 2 (`>>`)**: **8x Speed**
 - **Button 3 (`>>>`)**: **16x Speed**
 
-Want custom speed values? Check out [CustomSpeedTutorial.md](CustomSpeedTutorial.md) to learn how to edit the speed multipliers in the source file.
+Want custom speed values? Check out [CustomSpeedTutorial.md](tutorials/CustomSpeedTutorial.md) to learn how to edit the speed multipliers in the source file.
 
 ---
 
